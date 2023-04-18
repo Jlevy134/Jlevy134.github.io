@@ -1,0 +1,18 @@
+
+h1 {
+	background-color: black;
+	color: red;
+}
+body {
+	background-color: black;
+	color: white;
+}
+ol	{
+	border-color: white;
+	border-style: none none double none;
+}
+table,th,td {
+	border-collapse: collapse;
+	border: 1px solid;
+  
+}
